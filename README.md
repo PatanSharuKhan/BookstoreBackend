@@ -14,7 +14,7 @@ url :- http://www.localhost:4000/books
 
 ex:- {}
 
-# Modules Installed:-
+# Packages Installed:-
 1.Express\
 2.Sqlite\
 3.Cors\
